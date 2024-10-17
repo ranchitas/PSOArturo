@@ -2,7 +2,7 @@ Discrete_Particle particula2 = new Discrete_Particle();
             Allocation b112 = new Allocation(c1, vm1, servidor2);
             Allocation b142 = new Allocation(c6, vm4, servidor3);
             Allocation b224 = new Allocation(c5, vm2, servidor2);
-            Allocation b621 = new Allocation(c2, vm2, servidor1);
+            Allocation b621 = new Allocation(c2, vm2, servidor2);
             Allocation b432 = new Allocation(c3, vm4, servidor3);
             Allocation b512 = new Allocation(c4, vm1, servidor1);
             
